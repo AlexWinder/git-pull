@@ -6,7 +6,7 @@ This allows you to quickly sync local versions of your Git projects with your re
 
 ## Contributors
 
-- [Alex Winder](https://www.alexwinder.uk)
+- [Alex Winder](https://alexwinder.com)
 
 ## Support
 
